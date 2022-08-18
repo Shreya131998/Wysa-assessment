@@ -1,14 +1,14 @@
 # Wysa-assessment
 
 routes 
-
+```
 post("/") - to register 
 put("/secondPage/:userName") - to jump to second page 
 put("/thirdPage/:userName") - to jump to third page 
 put("/fourthPage/:userName") - to jump to fourth page 
 put("/fifthPage/:userName") - to jump to fifth page 
 put("/sixthPage/:userName") - to jump to sixth page 
-
+```
 LeetCode Challenge Ans- validate Binary Search Tree
 ```
 class Solution {

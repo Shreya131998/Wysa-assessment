@@ -10,6 +10,7 @@ put("/fifthPage/:userName") - to jump to fifth page
 put("/sixthPage/:userName") - to jump to sixth page 
 
 LeetCode Challenge Ans- validate Binary Search Tree
+```
 class Solution {
 public:
     void f(TreeNode *root,bool &t){
@@ -35,3 +36,4 @@ public:
         
     }
 };
+```
